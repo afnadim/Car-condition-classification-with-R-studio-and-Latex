@@ -1,0 +1,243 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nty/global/}
+  \entry{Crayon}{article}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={Crayon},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {big data made simple}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Why use Hadoop? Top pros and cons of Hadoop}
+    \verb{url}
+    \verb http://bigdata-madesimple.com/why-use-hadoop-top-pros-and-cons-of-had
+    \verb oop/
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{Jack}{book}{}
+    \name{author}{1}{}{%
+      {{hash=EJ}{%
+         family={Esselink},
+         familyi={E\bibinitperiod},
+         given={Jack},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IBM}%
+    }
+    \strng{namehash}{EJ1}
+    \strng{fullhash}{EJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Today Big Data and Analytics is everywhere for everyone}
+    \verb{url}
+    \verb https://www.ibm.com/blogs/think/nl-en/2017/03/08/today-big-data-analy
+    \verb tics-everywhere-everyone/
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{IIHS}{article}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={IIHS},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IIHS}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{SAFETY RATINGS}
+    \verb{url}
+    \verb http://www.iihs.org/iihs/sr/statusreport/article/45/4/1
+    \endverb
+    \field{year}{2010}
+  \endentry
+
+  \entry{Kaggle}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=K}{%
+         family={Kaggle},
+         familyi={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Kaggle}%
+    }
+    \strng{namehash}{K1}
+    \strng{fullhash}{K1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Car Evaluation Data Set}
+    \verb{url}
+    \verb https://www.kaggle.com/elikplim/car-evaluation-data-set
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{Lloyd}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ML}{%
+         family={Marino},
+         familyi={M\bibinitperiod},
+         given={Lloyd},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Medium}%
+    }
+    \strng{namehash}{ML1}
+    \strng{fullhash}{ML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Buying and Selling Cars with Big Data}
+    \verb{url}
+    \verb https://medium.com/@LloydMarino/buying-and-selling-cars-with-big-data
+    \verb -979ebafee398
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{Marr}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MB}{%
+         family={Marr},
+         familyi={M\bibinitperiod},
+         given={Bernard},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Data Science central}%
+    }
+    \strng{namehash}{MB1}
+    \strng{fullhash}{MB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The Awesome Ways Big Data Is Used Today To Change Our World}
+    \verb{url}
+    \verb https://www.datasciencecentral.com/profiles/blogs/the-awesome-ways-bi
+    \verb g-data-is-used-today-to-change-our-world
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{Tavish}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ST}{%
+         family={Srivastava},
+         familyi={S\bibinitperiod},
+         given={Tavish},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Analytics Vidhya}%
+    }
+    \strng{namehash}{ST1}
+    \strng{fullhash}{ST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Why to tune Machine Learning Algorithms?}
+    \verb{url}
+    \verb https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-mod
+    \verb el/
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{UCI}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={UCI},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {UCI}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{title}{Car Evaluation Data Set}
+    \verb{url}
+    \verb https://archive.ics.uci.edu/ml/datasets/car+evaluation
+    \endverb
+    \field{year}{1997}
+  \endentry
+
+  \entry{Walker}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Data Science Central}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Random Forests Algorithm}
+    \verb{url}
+    \verb https://www.datasciencecentral.com/profiles/blogs/random-forests-algo
+    \verb rithm
+    \endverb
+    \field{year}{2013}
+  \endentry
+\endsortlist
+\endinput
